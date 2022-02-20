@@ -27,4 +27,4 @@
 ### 6. Drawer User Interface
 
 
-![Icon-App-20x20@3x](https://user-images.githubusercontent.com/28074009/154827986-f1bc41c5-aedd-4a85-bdfb-995ece75b7e3.png)
+![Icon-App-40x40](https://user-images.githubusercontent.com/28074009/154828071-4b8768cf-ef35-4102-85e4-449467a57827.png)
