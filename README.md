@@ -1,4 +1,4 @@
-# Pinch App![Icon-App-iTunes](https://user-images.githubusercontent.com/28074009/154827821-7feddaae-b62d-455e-aca3-d0653e655ec4.png)
+# Pinch App!
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/droptophop/iOS-pinch-app/total)
@@ -15,3 +15,7 @@
 3. Data model creation and data fetching
 4. Tracking of app state with App Storage
 5. Display between Onboarding and Home Screens
+
+[Icon-App-iTunes](https://user-images.githubusercontent.com/28074009/154827821-7feddaae-b62d-455e-aca3-d0653e655ec4.png)
+![thumb-magazine-back-cover](https://user-images.githubusercontent.com/28074009/154827844-629bc4f3-75b9-4001-87bb-e7bcb920c8a2.jpg)
+![thumb-magazine-front-cover](https://user-images.githubusercontent.com/28074009/154827845-343cc05f-0081-4c28-8086-e354eaa64a06.jpg)
