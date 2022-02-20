@@ -7,21 +7,25 @@
 ![GitHub forks](https://img.shields.io/github/forks/droptophop/iOS-pinch-app?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/droptophop/iOS-pinch-app?style=social)
 
-## Project Features
+## SwiftUI 3 Project
 
-### 1. Tap Gesture
+This engaging iPhone and iPad mobile application was created to become acquainted with creating advanced Pinch and Zoom features with SwiftUI gestures.
 
+### Project Features
 
-### 2. Drag Gesture and Image Reset
-
-
-### 3. Long Press Gesture
+#### 1. Tap Gesture
 
 
-### 4. Control Interface
+#### 2. Drag Gesture and Image Reset
 
 
-### 5. Pinch and Zoom Magnification Gesture
+#### 3. Long Press Gesture
+
+
+#### 4. Control Interface
+
+
+#### 5. Pinch and Zoom Magnification Gesture
 
 
 ### 6. Drawer User Interface
