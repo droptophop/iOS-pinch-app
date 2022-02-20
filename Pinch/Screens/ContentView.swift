@@ -15,7 +15,7 @@ struct ContentView: View {
     @State private var imageScale: CGFloat = 1
     @State private var imageOffset: CGSize = .zero
     
-    let pages: [Page] = pagesData
+    let pages: [Page] = pageData
     
     // MARK: - FUNCTION
     func resetImageState() {
