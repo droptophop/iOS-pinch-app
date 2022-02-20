@@ -1,4 +1,5 @@
-![Icon-App-20x20@3x](https://user-images.githubusercontent.com/28074009/154827986-f1bc41c5-aedd-4a85-bdfb-995ece75b7e3.png) # Pinch App!
+# Pinch App!
+![Icon-App-20x20@3x](https://user-images.githubusercontent.com/28074009/154827986-f1bc41c5-aedd-4a85-bdfb-995ece75b7e3.png)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/droptophop/iOS-pinch-app/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/droptophop/iOS-pinch-app)
